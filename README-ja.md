@@ -8,6 +8,7 @@
 - ベースイメージ: [Amazon Corretto](https://hub.docker.com/_/amazoncorretto)
 - 対応アーキテクチャ: `linux/amd64`, `linux/arm64`
 - GitHubリポジトリ: [ponta0/PaperMC-Docker-Build](https://github.com/ponta0/PaperMC-Docker-Build)
+- Docker Hubリポジトリ: [magnia/papermc](https://hub.docker.com/r/magnia/papermc)
 
 ## タグの規則
 タグとしてMinecraftバージョンを指定した場合、最新のビルドが取得されます。

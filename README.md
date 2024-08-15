@@ -8,6 +8,7 @@ This Docker image runs [PaperMC](https://papermc.io/), a fork of the Minecraft s
 - Base Image: [Amazon Corretto](https://hub.docker.com/_/amazoncorretto)
 - Supported Architectures: `linux/amd64`, `linux/arm64`
 - GitHub Repository: [ponta0/PaperMC-Docker-Build](https://github.com/ponta0/PaperMC-Docker-Build)
+- Docker Hub Repository: [magnia/papermc](https://hub.docker.com/r/magnia/papermc)
 
 ## Tagging Policy
 If you specify a Minecraft version as a tag, the latest build will be fetched. To get a specific build, append `-${BUILD_NUMBER}` to the version.
