@@ -1,4 +1,4 @@
-[English README is here](https://github.com/ponta0/PaperMC-Docker-Build/README.md)
+[English README is here](https://github.com/ponta0/PaperMC-Docker-Build/blob/main/README.md)
 
 # PaperMC Dockerコンテナ
 

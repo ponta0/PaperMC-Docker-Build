@@ -1,4 +1,4 @@
-[日本語版 README はこちら](https://github.com/ponta0/PaperMC-Docker-Build/README-ja.md)
+[日本語版 README はこちら](https://github.com/ponta0/PaperMC-Docker-Build/blob/main/README-ja.md)
 
 # PaperMC Docker Container
 
